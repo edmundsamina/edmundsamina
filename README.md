@@ -10,7 +10,7 @@ I've recently started a coding bootcamp with the School of Code! I am passionate
 * 🌍  I'm based in London, U.K.
 * 🖥️  See my portfolio at [Comming soon...](http://comingsoon....)
 * ✉️  You can contact me at [edmundsamina@gmail.com](mailto:edmundsamina@gmail.com)
-* 🧠  I'm learning Typescript and Tailwind.
+* 🧠  I'm learning lots of new things, but looking to improve on TypeScript and learn Tailwind.
 
 ### Skills
 
@@ -41,4 +41,4 @@ I've recently started a coding bootcamp with the School of Code! I am passionate
 <a href="http://www.github.com/edmundsamina"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edmundsamina&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 
-URL:https://www.codewars.com/users/edmundsamina/badges/small
+URL:"https://www.codewars.com/users/edmundsamina/badges/small"
