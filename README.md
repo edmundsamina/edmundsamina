@@ -31,6 +31,7 @@ I've recently started a coding bootcamp with the School of Code! I am passionate
 ### Socials
 
 <p align="left"> <a href="https://codesandbox.io/u/edmundsamina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.github.com/edmundsamina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amina-edmunds-349672253/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
