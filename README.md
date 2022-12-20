@@ -8,7 +8,7 @@ Aspiring Full-Stack Developer
 I've recently started a coding bootcamp with the School of Code! I am passionate about design, as well as creating inclusive user-experiences.
 
 * 🌍  I'm based in London, U.K.
-* 🖥️  See my portfolio at [Comming soon...](http://comingsoon....)
+* 🖥️  See my portfolio at [Coming soon...](http://comingsoon....)
 * ✉️  You can contact me at [edmundsamina@gmail.com](mailto:edmundsamina@gmail.com)
 * 🧠  I'm learning lots of new things, but looking to improve on TypeScript and learn Tailwind.
 
