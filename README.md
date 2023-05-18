@@ -9,8 +9,6 @@ I've recently started a coding bootcamp with the School of Code! I am passionate
 
 * 🌍  I'm based in London, U.K.
 * 🖥️  See my portfolio at [https://amina-edmunds.netlify.app/](https://amina-edmunds.netlify.app/)
-* ✉️  You can contact me at [edmundsamina@gmail.com](mailto:edmundsamina@gmail.com)
-* 🧠  I'm learning lots of new things, but looking to improve on TypeScript and learn Tailwind.
 
 ### Skills
 
