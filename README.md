@@ -8,7 +8,7 @@ Aspiring Full-Stack Developer
 I've recently started a coding bootcamp with the School of Code! I am passionate about design, as well as creating inclusive user-experiences.
 
 * 🌍  I'm based in London, U.K.
-* 🖥️  See my portfolio at [https://aminaedmunds.netlify.app/](https://amina-edmunds.netlify.app/)
+* 🖥️  See my portfolio at [https://aminaedmunds.netlify.app/](https://aminaedmunds.netlify.app/)
 
 ### Skills
 
