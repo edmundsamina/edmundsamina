@@ -2,12 +2,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amina Edmunds
 =====================================================================================================================================
 
-Aspiring Full-Stack Developer
+Full-Stack Developer
 -----------------------------
 
-I've recently started a coding bootcamp with the School of Code! I am passionate about design, as well as creating inclusive user-experiences.
+With a background in architecture, design, and teaching, I bring a creative approach to coding. I'm excited to combine my analytical skills, eye for aesthetics, and passion for making complex topics understandable in my work as a developer. I thrive on continuous learning and am eager to join a collaborative team where I can contribute meaningfully while expanding my skills. Though initially intimidated by coding, I surprised myself by falling in love with the art of problem-solving. I'm drawn to companies that value communication, giving back and helping others grow. Currently, I am working on my Python knowledge, and exploring data engineering!
 
 * 🌍  I'm based in London, U.K.
+* 👩‍💼  Currently an intern at Datacamp.
 * 🖥️  See my portfolio at [https://aminaedmunds.netlify.app/](https://aminaedmunds.netlify.app/)
 
 ### Skills
